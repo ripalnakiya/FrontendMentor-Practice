@@ -17,7 +17,7 @@ main {
 
 .container {
   background-color: white;
-  width: 18%;
+  width: 19%;
   padding: 1rem;
   border-radius: 1rem;
   display: flex;
@@ -32,7 +32,7 @@ img {
 
 .container p:nth-child(2) {
   font-weight: 700;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   margin: 2rem 0 1.5rem;
   color: hsl(218, 44%, 22%);
 }
