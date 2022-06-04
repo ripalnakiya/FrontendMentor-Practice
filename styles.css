@@ -33,7 +33,7 @@ img {
 
 .container p:nth-child(2) {
   font-weight: 700;
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   margin: 1.5rem 0 1rem;
   color: hsl(218, 44%, 22%);
   display: inline-block;
@@ -43,7 +43,7 @@ img {
 
 .container p:nth-child(3) {
   font-weight: 400;
-  font-size: 1rem;
+  font-size: 0.9rem;
   margin: 0 0 1rem;
   color: hsl(220, 15%, 55%);
   display: inline-block;
