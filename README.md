@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/ripalnakiya/FM-Project-2.git)
+- [Live Site URL](https://ripalnakiya.github.io/FM-Project-2/)
 
 ## My process
 
@@ -66,8 +66,8 @@ Have a look at the code snippet below:
 
 ### Useful resources
 
-- [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is really a good article to understand flexbox in layman's language
-- [Box alignment](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Alignment/Box_Alignment_in_Flexbox) - This article will help you out to have more understanding of alignments in flexbox
+- [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is really a good article to understand flexbox in layman's language.
+- [Box alignment](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Alignment/Box_Alignment_in_Flexbox) - This article will help you out to have more understanding of alignments in flexbox.
 
 ## Author
 
