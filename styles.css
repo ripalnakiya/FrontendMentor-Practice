@@ -1,0 +1,135 @@
+html,
+body,
+main {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: hsl(217, 54%, 11%);
+  box-sizing: border-box;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Outfit";
+}
+
+.container {
+  width: 20%;
+  padding: 1.3rem;
+  border-radius: 1rem;
+  background-color: hsl(216, 50%, 16%);
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+/* Images Section */
+
+.images {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: hsl(178, 100%, 50%);
+  border-radius: 0.5rem;
+}
+
+.images img:nth-child(1) {
+  width: 100%;
+  border-radius: 0.5rem;
+}
+
+.images img:nth-child(2) {
+  position: absolute;
+  display: none;
+}
+
+/* Images Hover */
+
+.images:hover {
+  cursor: pointer;
+}
+
+.images:hover img:nth-child(1) {
+  /*When image container is hovered then change the opacity of Equilibrium image*/
+  opacity: 0.7;
+}
+
+.images:hover img:nth-child(2) {
+  /*When image container is hovered then bring back the eye image element*/
+  display: inline;
+}
+
+/* content section */
+
+.content-one p:nth-child(1) {
+  font-weight: 600;
+  font-size: 1.4rem;
+  color: hsl(0, 0%, 100%);
+}
+
+.content-one p:nth-child(1):hover {
+  cursor: pointer;
+  color: hsl(178, 100%, 50%);
+}
+
+.content-one p:nth-child(2) {
+  font-weight: 400;
+  font-size: 1.125rem;
+  color: hsl(215, 51%, 70%);
+}
+
+.content-two {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.125rem;
+  margin: -10px 0 10px;
+}
+
+.eth,
+.time {
+  display: flex;
+  gap: 5px; /*Gap between the flex items*/
+  align-items: center;
+}
+
+.eth p {
+  font-weight: 600;
+  color: hsl(178, 100%, 50%);
+}
+
+.time p {
+  color: hsl(215, 51%, 70%);
+}
+
+.content-three {
+  display: flex;
+  gap: 10px;
+  border-top: solid 1px hsl(215, 32%, 27%);
+  align-items: center;
+  font-size: 1.125rem;
+  color: hsl(215, 51%, 70%);
+}
+
+.content-three img {
+  width: 2rem;
+  border: solid 1px hsl(0, 0%, 100%);
+  border-radius: 100%;
+}
+
+p span {
+  color: hsl(0, 0%, 100%);
+}
+
+p span:hover {
+  cursor: pointer;
+  color: hsl(178, 100%, 50%);
+}
+
+@media screen and (max-width: 375px) {
+  .container {
+    width: 90%;
+  }
+}
