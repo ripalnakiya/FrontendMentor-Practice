@@ -36,8 +36,12 @@ Users should be able to:
 ### What I learned
 
 By using flexbox , almost everything was simple to align.
+
 The only difficulty I came across was making the image hover animation , At first I though it would require use of 'transition' or 'animation' property of CSS but when I went through other's code , the concept was really very simple.
+
 The idea is , have a background color 'cyan' and then reduce the opacity of the Equilibrium image when hovered over!
+
+Yeah but still you can add transition to make it smoother.
 
 Have a look at the code snippet below:
 
