@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/ripalnakiya/FM-Project-4.git)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://ripalnakiya.github.io/FM-Project-4/)
 
 ## My process
 
