@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ripalnakiya/FM-Project-5.git)
-- Live Site URL: [Add live site URL here](https://ripalnakiya.github.io/FM-Project-5/)
+- [Solution URL](https://github.com/ripalnakiya/FM-Project-5.git)
+- [Live Site URL](https://ripalnakiya.github.io/FM-Project-5/)
 
 ## My process
 
