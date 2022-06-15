@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
--[Solution URL](https://your-solution-url.com) 
--[Live Site URL](https://ripalnakiya.github.io/FM-Project-7/)
+- [Solution URL](https://github.com/ripalnakiya/FM-Project-7.git) 
+- [Live Site URL](https://ripalnakiya.github.io/FM-Project-7/)
 
 ## My process
 
