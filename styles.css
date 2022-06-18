@@ -33,15 +33,6 @@ p {
   color: hsl(227, 10%, 46%);
 }
 
-.top {
-  position: absolute;
-  background-position: center;
-}
-
-.bottom {
-  position: absolute;
-}
-
 .container {
   position: relative;
   display: flex;
@@ -50,6 +41,7 @@ p {
   background-color: white;
   border-radius: 1rem;
   width: 25rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
 }
 
 .container h1:nth-child(3) {
