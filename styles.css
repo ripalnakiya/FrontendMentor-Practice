@@ -88,3 +88,13 @@ p {
   letter-spacing: 1px;
   margin-top: -8px;
 }
+
+@media (max-width: 600px) {
+    .container {
+        width: 95%;
+    }
+    body {
+        background-position: left -85vw top -50vw, right -70vw bottom -50vw;
+        background-size: 150vw, 130vw;
+    }
+}
