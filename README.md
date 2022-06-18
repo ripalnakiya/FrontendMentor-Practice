@@ -18,7 +18,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### The challenge
 
 - Build out the project to the designs provided
-- 
+
+
 ### Links
 
 - [Solution URL](https://github.com/ripalnakiya/FM-Project-8.git)
