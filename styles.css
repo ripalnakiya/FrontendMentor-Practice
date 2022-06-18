@@ -23,8 +23,8 @@ main {
   z-index: 1;
   display: flex;
   flex-direction: column;
-  width: 25vw;
-  background-color: hsl(225, 100%, 98%);
+  width: 28rem;
+  background-color: white;
   border-radius: 1rem;
   box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -34,7 +34,7 @@ main {
 }
 
 .content {
-  padding: 2rem;
+  padding: 3rem;
   text-align: center;
   font-family: "Red Hat Display", sans-serif;
 }
