@@ -89,7 +89,7 @@ p {
   margin-top: -8px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 375px) {
     .container {
         width: 95%;
     }
