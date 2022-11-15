@@ -13,8 +13,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links
 
-- [Solution URL](https://github.com/ripalnakiya/QR-code-component-2.git)
-- [Live Site URL](https://ripalnakiya.github.io/QR-code-component-2/)
+- [Solution URL](https://github.com/ripalnakiya/QR-Code-Component-2.git)
+- [Live Site URL](https://ripalnakiya.github.io/QR-Code-Component-2/)
 
 ## My process
 
