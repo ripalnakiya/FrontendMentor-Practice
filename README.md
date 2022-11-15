@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/ripalnakiya/FM-Project-5.git)
+- [Solution URL](https://github.com/ripalnakiya/Order-Summary-Card.git)
 - [Live Site URL](https://ripalnakiya.github.io/Order-Summary-Card/)
 
 ## My process
