@@ -16,7 +16,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ### Links
 
 - [Solution URL](https://github.com/ripalnakiya/FM-Project-4.git)
-- [Live Site URL](https://ripalnakiya.github.io/FM-Project-4/)
+- [Live Site URL](https://ripalnakiya.github.io/Interactive-Rating-Component/)
 
 ## Overview
 
