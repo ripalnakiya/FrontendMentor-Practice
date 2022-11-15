@@ -13,11 +13,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-### Links
-
-- [Solution URL](https://github.com/ripalnakiya/Interactive-Rating-Component.git)
-- [Live Site URL](https://ripalnakiya.github.io/Interactive-Rating-Component/)
-
 ## Overview
 
 ### The challenge
@@ -28,6 +23,11 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
+
+### Links
+
+- [Solution URL](https://github.com/ripalnakiya/Interactive-Rating-Component.git)
+- [Live Site URL](https://ripalnakiya.github.io/Interactive-Rating-Component/)
 
 ## My process
 
