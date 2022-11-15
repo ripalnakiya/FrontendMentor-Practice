@@ -11,10 +11,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-### Links
+## Links
 
 - [Solution URL](https://github.com/ripalnakiya/FM-Project-3.git)
-- [Live Site URL](https://ripalnakiya.github.io/FM-Project-3/)
+- [Live Site URL](https://ripalnakiya.github.io/QR-code-component-2/)
 
 ## My process
 
