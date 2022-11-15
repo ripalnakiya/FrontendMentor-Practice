@@ -13,6 +13,11 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
+### Links
+
+- [Solution URL](https://github.com/ripalnakiya/FM-Project-6.git)
+- [Live Site URL](https://ripalnakiya.github.io/FM-Project-6/)
+
 ## Overview
 
 ### The challenge
@@ -20,11 +25,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
-
-### Links
-
-- [Solution URL](https://github.com/ripalnakiya/FM-Project-6.git)
-- [Live Site URL](https://ripalnakiya.github.io/FM-Project-6/)
 
 ## My process
 
