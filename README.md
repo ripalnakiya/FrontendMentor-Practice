@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/ripalnakiya/FM-Project-5.git)
-- [Live Site URL](https://ripalnakiya.github.io/FM-Project-5/)
+- [Live Site URL](https://ripalnakiya.github.io/Order-Summary-Card/)
 
 ## My process
 
