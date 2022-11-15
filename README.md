@@ -16,7 +16,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### Links
 
 - [Solution URL](https://github.com/ripalnakiya/FM-Project-6.git)
-- [Live Site URL](https://ripalnakiya.github.io/FM-Project-6/)
+- [Live Site URL](https://ripalnakiya.github.io/Stats-Preview-Card-Component/)
 
 ## Overview
 
