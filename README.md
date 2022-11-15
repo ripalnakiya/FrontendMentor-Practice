@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/ripalnakiya/FM-Project-2.git)
-- [Live Site URL](https://ripalnakiya.github.io/FM-Project-2/)
+- [Live Site URL](https://ripalnakiya.github.io/NFT-Preview-Card-Component/)
 
 ## My process
 
