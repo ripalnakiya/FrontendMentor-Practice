@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/ripalnakiya/FM-Project-7.git) 
-- [Live Site URL](https://ripalnakiya.github.io/FM-Project-7/)
+- [Live Site URL](https://ripalnakiya.github.io/3-Column-Preview-Card-Component/)
 
 ## My process
 
